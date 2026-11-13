@@ -153,7 +153,7 @@ ASP.NET Core MVC ile katmanlı mimari, EF Core Code First ve Migration, ViewComp
 
 **Alperen Sazak**
 
-Murat Yücedağ Academy · .NET Portföy Case
+.NET Portföy Case
 
 ⭐ Beğendiysen yıldızlamayı unutma!
 
